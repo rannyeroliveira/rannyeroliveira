@@ -1,5 +1,7 @@
 ## Olá, me chamo Rannyer, futuro engenheiro de software!
 
+Tenho uma boa base em HTML, CSS e JavaScript, além de conhecimentos básicos em React. No entanto, atualmente estou focado em expandir minhas habilidades na área de ciência de dados. Estou cursando Ciência da Computação e participando de um bootcamp intensivo em Engenharia de Dados, onde estou aprofundando meus conhecimentos em Python voltado para engenharia de dados, manipulação e análise de dados. Estou sempre buscando novas oportunidades para aplicar e expandir meus conhecimentos.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ranny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ranny-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
