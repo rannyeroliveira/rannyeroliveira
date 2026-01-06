@@ -1,6 +1,6 @@
-## Olá, me chamo Rannyer, cientista de dados!
+## Olá, me chamo Rannyer!
 
-Cientista de dados em formação, com sólida base em estatística, programação e análise de dados. Apaixonado por transformar informações em insights estratégicos, criar modelos preditivos e resolver problemas complexos com soluções baseadas em dados. Em busca de oportunidades para aplicar habilidades técnicas e aprender continuamente em um ambiente colaborativo e desafiador.
+Estou me desenvolvendo a cada dia na área de dados.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ranny-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
